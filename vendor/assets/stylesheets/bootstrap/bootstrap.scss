@@ -23,7 +23,7 @@
 // Base CSS
 @import "bootstrap/type";
 @import "bootstrap/code";
-//@import "bootstrap/forms";
+@import "bootstrap/forms";
 @import "bootstrap/tables";
 
 // Components: common
@@ -46,8 +46,8 @@
 @import "bootstrap/pager";
 
 // Components: Popovers
-//@import "bootstrap/modals";
-//@import "bootstrap/tooltip";
+@import "bootstrap/modals";
+@import "bootstrap/tooltip";
 @import "bootstrap/popovers";
 
 // Components: Misc
